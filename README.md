@@ -4,7 +4,7 @@
 
 - 原始数据来源：[FrequencyWords](https://github.com/hermitdave/FrequencyWords)
 - 原始数据许可证：**CC BY-SA 4.0** ([查看全文](https://creativecommons.org/licenses/by-sa/4.0/))
-- 原作者 Hermit Dave
+- 原作者：Hermit Dave。
   
 本仓库的表格数据作为原始数据的"改编作品"，同样采用 **CC BY-SA 4.0** 许可证开源。
 
